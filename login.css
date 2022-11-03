@@ -1,0 +1,27 @@
+body{
+    width: 100vw;
+    height: 100vh;
+  }
+  #login {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  a {
+    color : blue;
+    text-decoration: none;
+  }
+
+  #page {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  #button {
+    display: flex; 
+    justify-content: space-between;
+  }
